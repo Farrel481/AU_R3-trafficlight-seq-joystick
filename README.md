@@ -9,7 +9,7 @@ Tools:
 - 3x LED Each Red, Yellow, Green
 - 3x Resistors 220 Ohm
 
-###CONNECTIONS!<br>
+### CONNECTIONS!<br>
 LED    >    2,3,4<br>
 Minus  >    GND via Resistor<br>
 
