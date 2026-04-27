@@ -8,3 +8,15 @@ Tools:
 - Bunch of Jumper Cable (M2M & M2F)
 - 3x LED Each Red, Yellow, Green
 - 3x Resistors 220 Ohm
+
+###CONNECTIONS!
+LED    >    2,3,4
+Minus  >    GND via Resistor
+
+- Joystick
+GND    >    GND
+VCC/5v >    5V
+VRx    >    A0
+SW     >    7
+
+Happy Trying!
