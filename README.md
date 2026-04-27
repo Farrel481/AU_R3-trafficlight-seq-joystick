@@ -9,14 +9,14 @@ Tools:
 - 3x LED Each Red, Yellow, Green
 - 3x Resistors 220 Ohm
 
-###CONNECTIONS!
-LED    >    2,3,4
-Minus  >    GND via Resistor
+###CONNECTIONS!<br>
+LED    >    2,3,4<br>
+Minus  >    GND via Resistor<br>
 
-- Joystick
-GND    >    GND
-VCC/5v >    5V
-VRx    >    A0
-SW     >    7
-
+- Joystick<br>
+GND    >    GND<br>
+VCC/5v >    5V<br>
+VRx    >    A0<br>
+SW     >    7<br>
+<br>
 Happy Trying!
